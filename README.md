@@ -1,3 +1,3 @@
 # Product-Repository--TypeScript-App-
 
-This is a TypeScript Example.
+This is a Typescript application studied on, in order to understand Typescript basics.
